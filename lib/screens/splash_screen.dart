@@ -106,7 +106,7 @@ class _SplashScreenState extends State<SplashScreen> {
                   Row(
                     children: [
                       Text(
-                        "multiple",
+                        "multiple ",
                         textAlign: TextAlign.left,
                         style: GoogleFonts.poppins(
                           fontSize: 35,
